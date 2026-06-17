@@ -1,6 +1,11 @@
-# I'm Dwiki Riza
-I'm Dwiki Riza
+## Hi, I'm Dwiki
 
+Full stack developer who builds clean, functional web apps — from frontend to backend to database.
+
+- I work with JavaScript, React, Next.js, and Laravel
+- Available for freelance work — web apps, dashboards, APIs, and integrations
+
+📫 **Hit me up:** ryzzkunzz08@gmail.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/dwykee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://id.linkedin.com/in/dwiki-riza-zainur-rohman-96966840b?trk=people-guest_people_search-card) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/galxembut) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ryzzkun08@gmail.com) 
