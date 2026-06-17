@@ -2,7 +2,7 @@
 
 Full stack developer who builds clean, functional web apps — from frontend to backend to database.
 
-- I work with JavaScript, React, Next.js, and Laravel
+- I build with JavaScript, React, Next.js, and Laravel
 - Available for freelance work — web apps, dashboards, APIs, and integrations
 
 📫 **Hit me up:** ryzzkunzz08@gmail.com
