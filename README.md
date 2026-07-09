@@ -1,7 +1,5 @@
 ## Hi, I'm Dwiki
 
-Web developer who builds clean, functional web apps — from frontend to backend to database.
-
 - I build with JavaScript, React, Next.js, and Laravel
 - Available for freelance work — web apps, dashboards, APIs, and integrations
 
